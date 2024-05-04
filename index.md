@@ -1,3 +1,5 @@
+<link href="http://github.com/yrgoldteeth/darkdowncss/raw/master/darkdown.css" rel="stylesheet"></link>
+
 # Модификации, серверы, карты от Kripiron
 
 ## Minecraft
