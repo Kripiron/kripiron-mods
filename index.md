@@ -1,4 +1,4 @@
-<head><link href="http://github.com/yrgoldteeth/darkdowncss/raw/master/darkdown.css" rel="stylesheet"></link></head>
+<head><link href="http://github.com/yrgoldteeth/darkdowncss/raw/master/darkdown.css" rel="stylesheet"/></head>
 
 # Модификации, серверы, карты от Kripiron
 
